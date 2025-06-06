@@ -1,0 +1,7 @@
+# Entorno virtual
+.EV/
+# Archivos de configuración de editor
+.vscode/
+__pycache__/
+*.py[cod]
+.env
